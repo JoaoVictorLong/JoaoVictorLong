@@ -1,5 +1,5 @@
 ### Hi there, me name is João Longo 👋
-I'm currently working on python and infrastructure, i love technology, music and after. Today i'm learning english in Dublin and working other thing.
+I'm currently working with python and infrastructure. I love technology, music and how things work. I spent a year in Dublin learning English, working, gaining new life experiences. I am currently looking for new job opportunities. Take a time to look what I made with code 😜.
 
 <div align="center">
   <a href="https://github.com/JoaoVictorLong">
