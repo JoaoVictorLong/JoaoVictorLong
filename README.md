@@ -15,9 +15,9 @@ I'm currently working with python and infrastructure. I love technology, music a
  
 <div> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Porfile-black?logo=instagram">
-  <img alt="Static Badge" src="https://img.shields.io/badge/send--email-black?logo=minutemailer&link=mailto%3Ajoao.vitor.longo%40hotmail.com">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Profile-black?logo=linkedin&link=https%3A%2F%2Fgithub.com%2FJoaoVictorLong">
- 
+  <img alt="Static Badge" href='mailto:joao.vitor.longo@hotmail.com' src="https://img.shields.io/badge/send--email-black?logo=minutemailer">
+  <img alt="Static Badge" href='https://www.linkedin.com/in/joaovictorlong/'src="https://img.shields.io/badge/Profile-black?logo=linkedin">
+  
   ![Snake animation](https://github.com/JoaoVictorLong/JoaoVictorLong/blob/output/github-snake.svg)
  
 </div>
