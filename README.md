@@ -5,10 +5,6 @@ I'm a tech enthusiast with a passion for Python and infrastructure. I enjoy divi
 Now, I'm on the lookout for new opportunities where I can leverage my skills in coding and infrastructure. Feel free to explore my projects and see what I’ve been up to. Let's connect, and who knows? Maybe we'll work together soon! 😜
 
 <div align="center">
-  <img align="center" alt="Joao-pic" height="200" src="https://cdn.discordapp.com/attachments/948796550459568128/984150884130902026/1-3.gif">
-</div>
-
-<div align="center">
   <a href="https://github.com/JoaoVictorLong">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorLong&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorLong&layout=compact&langs_count=7&theme=dracula"/>
