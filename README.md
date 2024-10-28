@@ -18,6 +18,6 @@ I'm currently working with python and infrastructure. I love technology, music a
   <a href = "mailto:joao.vitor.longo@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaovictorlong/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/JoaoVictorLong/JoaoVictorLong/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JoaoVictorLong/JoaoVictorLong/blob/output/github-snake.svg)
  
 </div>
