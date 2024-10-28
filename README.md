@@ -26,5 +26,6 @@ Now, I'm on the lookout for new opportunities where I can leverage my skills in 
 </div>
 
 <div align="center">
+
   ![Snake animation](https://github.com/JoaoVictorLong/JoaoVictorLong/blob/output/github-snake.svg)
 </div>
